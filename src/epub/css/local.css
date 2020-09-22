@@ -58,7 +58,7 @@ table[epub|type~="z3998:drama"],
 }
 
 /* This avoids character names being italicised within a stage direction */
-[epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"]{
+[epub|type~="z3998:persona"]{
 	font-style: normal;
 }
 
@@ -98,4 +98,19 @@ tr.together td + td{
 
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-left: .5em;
+}
+
+[epub|type~="z3998:dramatis-personae"]{
+	text-align: center;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+[epub|type~="z3998:dramatis-personae"] ul li{
+	margin: 1em;
+	font-style: italic;
 }
