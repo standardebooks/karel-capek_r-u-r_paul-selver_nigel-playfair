@@ -34,11 +34,6 @@
 	width: 20%;
 }
 
-table[epub|type~="z3998:drama"],
-[epub|type~="z3998:drama"] table{
-	margin: 1em auto;
-}
-
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
@@ -55,11 +50,7 @@ table[epub|type~="z3998:drama"],
 
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
-}
-
-/* This avoids character names being italicised within a stage direction */
-[epub|type~="z3998:persona"]{
-	font-style: normal;
+	font-style: normal; /* This avoids character names being italicised within a stage direction */
 }
 
 /* for all-caps effects like BUZZER or PHONE in stage directions */
@@ -98,11 +89,6 @@ tr.together td + td{
 	border-left: 1px solid;
 }
 
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
-}
-
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-left: .5em;
 }
@@ -120,4 +106,9 @@ tr.together td + td{
 [epub|type~="z3998:dramatis-personae"] ul li{
 	margin: 1em;
 	font-style: italic;
+}
+
+/* this is for descriptions of characters */
+[epub|type~="z3998:dramatis-personae"] i{
+	font-style: normal;
 }
