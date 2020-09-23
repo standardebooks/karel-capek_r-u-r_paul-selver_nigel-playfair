@@ -62,8 +62,15 @@ table[epub|type~="z3998:drama"],
 	font-style: normal;
 }
 
-.sound-effect{
+/* for all-caps effects like BUZZER or PHONE in stage directions */
+.stage-effect{
 	font-variant: all-small-caps;
+}
+
+/* this avoids parentheses around the opening scene description paragraphs */
+.scene-description::before,
+.scene-description::after{
+	content: "";
 }
 
 section[epub|type~="z3998:scene"] > p{
