@@ -29,6 +29,12 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">R. U. R.</dc:title>
 		<meta property="file-as" refines="#title">R. U. R.</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Or, Rossum’s Universal Robots</dc:title>
+		<meta property="file-as" refines="#subtitle">Or, Rossum’s Universal Robots</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">R. U. R., or Rossum’s Universal Robots</dc:title>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Robots -- Drama</dc:subject>
 		<dc:subject id="subject-2">Science fiction plays</dc:subject>
 		<dc:subject id="subject-3">Czech drama -- Translations into English</dc:subject>
@@ -38,54 +44,56 @@
 		<meta property="term" refines="#subject-2">sh85118663</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<dc:description id="description">The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+		&lt;p&gt;&lt;i&gt;&lt;abbr&gt;R. U. R.&lt;/abbr&gt;, or Rossum’s Universal Robots&lt;/i&gt; is a play written in 1920 by &lt;a href="https://standardebooks.org/ebooks/karel-capek"&gt;Karel Čapek&lt;/a&gt;, a Czech writer who wrote many plays and novels, many of them with science-fiction and dystopian themes. &lt;i&gt;&lt;abbr&gt;R. U. R.&lt;/abbr&gt;&lt;/i&gt; is perhaps the most well-known of these works in the English-speaking world because it brought the word “robot” into the language. “Robot” is derived from the Czech word meaning “worker.”&lt;/p&gt;
+		&lt;p&gt;The play is set in the headquarters of the &lt;abbr&gt;R. U. R.&lt;/abbr&gt; corporation, which is on an island. This corporation has been manufacturing artificial beings which resemble humans, but who are tireless workers. They can be mass-produced in large numbers and are being adopted as workers in many countries. In the first scene of the play, they are visited by a young woman, Helena Glory, who aspires to relieve the lot of the robots, who she sees as oppressed. However, in what must be the fastest seduction scene in all drama, within one scene she is wooed and agrees to marry Harry Domin, the factory manager, who she has just met. She still however aspires to improve the life of robots and find a way to give them souls. Ultimately, however, this admirable desire leads to disaster for humankind.&lt;/p&gt;
+		&lt;p&gt;The play was translated into English, and slightly abridged, by Paul Selver and Nigel Playfair in 1923. This version was quickly popular with both British and American audiences and was well received by critics.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59112</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/004390776</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/R._U._R.</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/karel-capek_r-u-r_paul-selver_nigel-playfair</meta>
 		<dc:creator id="author">Karel Čapek</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Karel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Karel_%C4%8Capek</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50035042</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator-1">Nigel Playfair</dc:contributor>
-		<meta property="file-as" refines="#translator-1">Playfair, Nigel</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">TRANSLATOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">TRANSLATOR_NACOAF_URL</meta>
+		<dc:contributor id="translator-1">Paul Selver</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Selver, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Paul_Selver</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">https://id.loc.gov/authorities/names/n82272439</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-1">Paul Selver</dc:contributor>
-		<meta property="file-as" refines="#translator-2">Selver, Paul</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">TRANSLATOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">TRANSLATOR_NACOAF_URL</meta>
+		<dc:contributor id="translator-2">Nigel Playfair</dc:contributor>
+		<meta property="file-as" refines="#translator-2">Playfair, Nigel</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Nigel_Playfair</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">https://id.loc.gov/authorities/names/n87884309</meta>
 		<meta property="display-seq" refines="#translator-2">1</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Albert Gleizes</dc:contributor>
+		<meta property="file-as" refines="#artist">Gleizes, Albert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Gleizes</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81013211</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David E. Brown</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Brown, David E.</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -101,7 +109,13 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/act-1.xhtml" id="act-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-2.xhtml" id="act-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dramatis-personae.xhtml" id="dramatis-personae.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -109,6 +123,12 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dramatis-personae.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="act-1.xhtml"/>
+		<itemref idref="act-2.xhtml"/>
+		<itemref idref="act-3.xhtml"/>
+		<itemref idref="epilogue.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
