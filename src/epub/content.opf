@@ -27,13 +27,13 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">R. U. R.</dc:title>
-		<meta property="file-as" refines="#title">R. U. R.</meta>
+		<dc:title id="title">R.U.R.</dc:title>
+		<meta property="file-as" refines="#title">R.U.R.</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">Or, Rossum’s Universal Robots</dc:title>
 		<meta property="file-as" refines="#subtitle">Or, Rossum’s Universal Robots</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">R. U. R., or Rossum’s Universal Robots</dc:title>
+		<dc:title id="fulltitle">R.U.R., or Rossum’s Universal Robots</dc:title>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Robots -- Drama</dc:subject>
 		<dc:subject id="subject-2">Science fiction plays</dc:subject>
@@ -48,8 +48,8 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">The development of artificial beings in huge quantities to act as workers and soldiers leads to disaster for mankind.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;&lt;abbr&gt;R. U. R.&lt;/abbr&gt;, or Rossum’s Universal Robots&lt;/i&gt; is a play written in 1920 by &lt;a href="https://standardebooks.org/ebooks/karel-capek"&gt;Karel Čapek&lt;/a&gt;, a Czech writer who wrote many plays and novels, many of them with science-fiction and dystopian themes. &lt;i&gt;&lt;abbr&gt;R. U. R.&lt;/abbr&gt;&lt;/i&gt; is perhaps the most well-known of these works in the English-speaking world because it brought the word “robot” into the language. “Robot” is derived from the Czech word meaning “worker.”&lt;/p&gt;
-			&lt;p&gt;The play is set in the headquarters of the &lt;abbr&gt;R. U. R.&lt;/abbr&gt; corporation, which is on an island. This corporation has been manufacturing artificial beings which resemble humans, but who are tireless workers. They can be mass-produced in large numbers and are being adopted as workers in many countries. In the first scene of the play, they are visited by a young woman, Helena Glory, who aspires to relieve the lot of the robots, who she sees as oppressed. However, in what must be the fastest seduction scene in all drama, within one scene she is wooed and agrees to marry Harry Domin, the factory manager, who she has just met. She still however aspires to improve the life of robots and find a way to give them souls. Ultimately, however, this admirable desire leads to disaster for humankind.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;&lt;abbr&gt;R.U.R.&lt;/abbr&gt;, or Rossum’s Universal Robots&lt;/i&gt; is a play written in 1920 by &lt;a href="https://standardebooks.org/ebooks/karel-capek"&gt;Karel Čapek&lt;/a&gt;, a Czech writer who wrote many plays and novels, many of them with science-fiction and dystopian themes. &lt;i&gt;&lt;abbr&gt;R.U.R.&lt;/abbr&gt;&lt;/i&gt; is perhaps the most well-known of these works in the English-speaking world because it brought the word “robot” into the language. “Robot” is derived from the Czech word meaning “worker.”&lt;/p&gt;
+			&lt;p&gt;The play is set in the headquarters of the &lt;abbr&gt;R.U.R.&lt;/abbr&gt; corporation, which is on an island. This corporation has been manufacturing artificial beings which resemble humans, but who are tireless workers. They can be mass-produced in large numbers and are being adopted as workers in many countries. In the first scene of the play, they are visited by a young woman, Helena Glory, who aspires to relieve the lot of the robots, who she sees as oppressed. However, in what must be the fastest seduction scene in all drama, within one scene she is wooed and agrees to marry Harry Domin, the factory manager, who she has just met. She still however aspires to improve the life of robots and find a way to give them souls. Ultimately, however, this admirable desire leads to disaster for humankind.&lt;/p&gt;
 			&lt;p&gt;The play was translated into English, and slightly abridged, by Paul Selver and Nigel Playfair in 1923. This version was quickly popular with both British and American audiences and was well received by critics.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
