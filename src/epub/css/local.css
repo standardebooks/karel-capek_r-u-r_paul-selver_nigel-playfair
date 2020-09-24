@@ -112,3 +112,7 @@ tr.together td + td{
 [epub|type~="z3998:dramatis-personae"] i{
 	font-style: normal;
 }
+
+[epub|type~="z3998:dramatis-personae"] p + p{
+	text-indent: 0;
+}
