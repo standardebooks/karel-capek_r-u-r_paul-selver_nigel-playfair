@@ -113,6 +113,10 @@ tr.together td + td{
 	font-style: italic;
 }
 
+[epub|type~="z3998:dramatis-personae"] ul + p{
+	margin-top: 2em;
+}
+
 /* this is for descriptions of characters */
 [epub|type~="z3998:dramatis-personae"] i{
 	font-style: normal;
