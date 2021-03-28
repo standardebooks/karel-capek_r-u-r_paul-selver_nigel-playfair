@@ -62,24 +62,24 @@
 		<dc:creator id="author">Karel Čapek</dc:creator>
 		<meta property="file-as" refines="#author">Čapek, Karel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Karel_%C4%8Capek</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50035042</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50035042</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Paul Selver</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Selver, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Paul_Selver</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">https://id.loc.gov/authorities/names/n82272439</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n82272439</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Nigel Playfair</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Playfair, Nigel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Nigel_Playfair</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">https://id.loc.gov/authorities/names/n87884309</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n87884309</meta>
 		<meta property="display-seq" refines="#translator-2">1</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Albert Gleizes</dc:contributor>
 		<meta property="file-as" refines="#artist">Gleizes, Albert</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Gleizes</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81013211</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81013211</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
