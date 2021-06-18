@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/59112</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004390776</dc:source>
 		<meta property="se:word-count">20589</meta>
-		<meta property="se:reading-ease.flesch">80.48</meta>
+		<meta property="se:reading-ease.flesch">80.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/R.U.R.</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/karel-capek_r-u-r_paul-selver_nigel-playfair</meta>
 		<dc:creator id="author">Karel Čapek</dc:creator>
