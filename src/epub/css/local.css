@@ -16,8 +16,8 @@
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
@@ -54,8 +54,8 @@ i [epub|type~="z3998:persona"]{
 }
 
 [epub|type~="z3998:persona"]{
-	font-variant: all-small-caps;
 	font-style: normal; /* This avoids character names being italicised within a stage direction */
+	font-variant: all-small-caps;
 }
 
 /* for all-caps effects like BUZZER or PHONE in stage directions */
