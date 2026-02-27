@@ -69,13 +69,11 @@
 		<meta property="file-as" refines="#translator-1">Selver, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Paul_Selver</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n82272439</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Nigel Playfair</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Playfair, Nigel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Nigel_Playfair</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n87884309</meta>
-		<meta property="display-seq" refines="#translator-2">1</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Albert Gleizes</dc:contributor>
 		<meta property="file-as" refines="#artist">Gleizes, Albert</meta>
