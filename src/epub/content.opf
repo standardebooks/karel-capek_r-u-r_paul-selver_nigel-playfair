@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">R.U.R., or Rossum’s Universal Robots</dc:title>
 		<meta property="file-as" refines="#fulltitle">R.U.R.</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Robots -- Drama</dc:subject>
 		<dc:subject id="subject-2">Science fiction plays</dc:subject>
 		<dc:subject id="subject-3">Czech drama -- Translations into English</dc:subject>
